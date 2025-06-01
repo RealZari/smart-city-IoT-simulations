@@ -1,7 +1,4 @@
 # smart-city-IoT-simulations
-Comprehensive IoT-based smart city simulations using Cisco Packet Tracer, showcasing practical implementations of smart systems including Smart Garden, Smart Parking, Smart Fire Detection, and Smart Street Lighting.
-
-# Smart City IoT Simulations
 
 This project demonstrates the implementation of various smart city solutions using Cisco Packet Tracer (v8.2.2). Each solution focuses on real-world urban challenges and integrates IoT components, sensors, and communication technologies to simulate smart and automated systems.
 
